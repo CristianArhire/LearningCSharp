@@ -9,7 +9,7 @@ Each project is a standalone application that focuses on core backend concepts s
 
 | Project | Description | Roadmap.sh Link |
 |----------|--------------|----------------|
-| 🧾 [Expense Tracker CLI](./ExpenseTracker/README.md) | Track and manage daily expenses directly from the terminal using a local JSON store. | [Expense Tracker Project](https://roadmap.sh/projects/expense-tracker) |
+| 🧾 [Expense Tracker CLI](./ExpenseTrackerCLI/README.md) | Track and manage daily expenses directly from the terminal using a local JSON store. | [Expense Tracker Project](https://roadmap.sh/projects/expense-tracker) |
 | ✅ [Task Tracker CLI](./TaskTrackerCLI/README.md) | Manage tasks and to-dos via CLI — add, update, mark as done, and list tasks. | [Task Tracker Project](https://roadmap.sh/projects/task-tracker) |
 | 🎯 [Number Guessing Game CLI](./NumberGuessingGameCLI/README.md) | A simple game where the computer randomly selects a number and the user tries to guess it. | [Number Guessing Game Project](https://roadmap.sh/projects/number-guessing-game) |
 | 🧠 [GitHub User Activity CLI](./GitHubUserActivity/README.md) | Fetch and display public GitHub user activity directly from the console. | [GitHub Activity Project](https://roadmap.sh/projects/github-user-activity) |
